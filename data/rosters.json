@@ -1,0 +1,506 @@
+{
+ "2015": {
+  "Colin": {
+   "AFC East": "Jets",
+   "AFC North": "Steelers",
+   "AFC South": "Jaguars",
+   "AFC West": "Chiefs",
+   "NFC East": "Cowboys",
+   "NFC North": "Lions",
+   "NFC South": "Falcons",
+   "NFC West": "Seahawks"
+  },
+  "Jeff": {
+   "AFC East": "Dolphins",
+   "AFC North": "Ravens",
+   "AFC South": "Titans",
+   "AFC West": "Broncos",
+   "NFC East": "Giants",
+   "NFC North": "Packers",
+   "NFC South": "Buccaneers",
+   "NFC West": "Cardinals"
+  },
+  "Joey": {
+   "AFC East": "Patriots",
+   "AFC North": "Bengals",
+   "AFC South": "Texans",
+   "AFC West": "Chargers",
+   "NFC East": "Eagles",
+   "NFC North": "Bears",
+   "NFC South": "Saints",
+   "NFC West": "49ers"
+  },
+  "Tom": {
+   "AFC East": "Bills",
+   "AFC North": "Browns",
+   "AFC South": "Colts",
+   "AFC West": "Raiders",
+   "NFC East": "Commanders",
+   "NFC North": "Vikings",
+   "NFC South": "Panthers",
+   "NFC West": "Rams"
+  }
+ },
+ "2016": {
+  "Colin": {
+   "AFC East": "Patriots",
+   "AFC North": "Bengals",
+   "AFC South": "Jaguars",
+   "AFC West": "Chargers",
+   "NFC East": "Commanders",
+   "NFC North": "Vikings",
+   "NFC South": "Falcons",
+   "NFC West": "49ers"
+  },
+  "Jeff": {
+   "AFC East": "Bills",
+   "AFC North": "Browns",
+   "AFC South": "Titans",
+   "AFC West": "Raiders",
+   "NFC East": "Cowboys",
+   "NFC North": "Packers",
+   "NFC South": "Saints",
+   "NFC West": "Cardinals"
+  },
+  "Joey": {
+   "AFC East": "Jets",
+   "AFC North": "Steelers",
+   "AFC South": "Texans",
+   "AFC West": "Chiefs",
+   "NFC East": "Giants",
+   "NFC North": "Lions",
+   "NFC South": "Buccaneers",
+   "NFC West": "Seahawks"
+  },
+  "Tom": {
+   "AFC East": "Dolphins",
+   "AFC North": "Ravens",
+   "AFC South": "Colts",
+   "AFC West": "Broncos",
+   "NFC East": "Eagles",
+   "NFC North": "Bears",
+   "NFC South": "Panthers",
+   "NFC West": "Rams"
+  }
+ },
+ "2017": {
+  "Colin": {
+   "AFC East": "Bills",
+   "AFC North": "Ravens",
+   "AFC South": "Colts",
+   "AFC West": "Raiders",
+   "NFC East": "Commanders",
+   "NFC North": "Bears",
+   "NFC South": "Panthers",
+   "NFC West": "Seahawks"
+  },
+  "Jeff": {
+   "AFC East": "Jets",
+   "AFC North": "Browns",
+   "AFC South": "Texans",
+   "AFC West": "Broncos",
+   "NFC East": "Giants",
+   "NFC North": "Packers",
+   "NFC South": "Falcons",
+   "NFC West": "Cardinals"
+  },
+  "Joey": {
+   "AFC East": "Dolphins",
+   "AFC North": "Steelers",
+   "AFC South": "Titans",
+   "AFC West": "Chargers",
+   "NFC East": "Eagles",
+   "NFC North": "Vikings",
+   "NFC South": "Buccaneers",
+   "NFC West": "49ers"
+  },
+  "Tom": {
+   "AFC East": "Patriots",
+   "AFC North": "Bengals",
+   "AFC South": "Jaguars",
+   "AFC West": "Chiefs",
+   "NFC East": "Cowboys",
+   "NFC North": "Lions",
+   "NFC South": "Saints",
+   "NFC West": "Rams"
+  }
+ },
+ "2018": {
+  "Colin": {
+   "AFC East": "Jets",
+   "AFC North": "Bengals",
+   "AFC South": "Colts",
+   "AFC West": "Chiefs",
+   "NFC East": "Giants",
+   "NFC North": "Packers",
+   "NFC South": "Panthers",
+   "NFC West": "Cardinals"
+  },
+  "Jeff": {
+   "AFC East": "Dolphins",
+   "AFC North": "Ravens",
+   "AFC South": "Texans",
+   "AFC West": "Chargers",
+   "NFC East": "Eagles",
+   "NFC North": "Bears",
+   "NFC South": "Buccaneers",
+   "NFC West": "Rams"
+  },
+  "Joey": {
+   "AFC East": "Patriots",
+   "AFC North": "Browns",
+   "AFC South": "Titans",
+   "AFC West": "Broncos",
+   "NFC East": "Commanders",
+   "NFC North": "Vikings",
+   "NFC South": "Falcons",
+   "NFC West": "Seahawks"
+  },
+  "Tom": {
+   "AFC East": "Bills",
+   "AFC North": "Steelers",
+   "AFC South": "Jaguars",
+   "AFC West": "Raiders",
+   "NFC East": "Cowboys",
+   "NFC North": "Lions",
+   "NFC South": "Saints",
+   "NFC West": "49ers"
+  }
+ },
+ "2019": {
+  "Colin": {
+   "AFC East": "Dolphins",
+   "AFC North": "Browns",
+   "AFC South": "Texans",
+   "AFC West": "Chiefs",
+   "NFC East": "Cowboys",
+   "NFC North": "Packers",
+   "NFC South": "Buccaneers",
+   "NFC West": "Cardinals"
+  },
+  "Jeff": {
+   "AFC East": "Patriots",
+   "AFC North": "Steelers",
+   "AFC South": "Colts",
+   "AFC West": "Raiders",
+   "NFC East": "Giants",
+   "NFC North": "Bears",
+   "NFC South": "Panthers",
+   "NFC West": "Seahawks"
+  },
+  "Joey": {
+   "AFC East": "Jets",
+   "AFC North": "Ravens",
+   "AFC South": "Jaguars",
+   "AFC West": "Broncos",
+   "NFC East": "Eagles",
+   "NFC North": "Lions",
+   "NFC South": "Saints",
+   "NFC West": "49ers"
+  },
+  "Tom": {
+   "AFC East": "Bills",
+   "AFC North": "Bengals",
+   "AFC South": "Titans",
+   "AFC West": "Chargers",
+   "NFC East": "Commanders",
+   "NFC North": "Vikings",
+   "NFC South": "Falcons",
+   "NFC West": "Rams"
+  }
+ },
+ "2020": {
+  "Colin": {
+   "AFC East": "Bills",
+   "AFC North": "Browns",
+   "AFC South": "Colts",
+   "AFC West": "Broncos",
+   "NFC East": "Commanders",
+   "NFC North": "Vikings",
+   "NFC South": "Saints",
+   "NFC West": "Cardinals"
+  },
+  "Jeff": {
+   "AFC East": "Dolphins",
+   "AFC North": "Steelers",
+   "AFC South": "Texans",
+   "AFC West": "Raiders",
+   "NFC East": "Cowboys",
+   "NFC North": "Lions",
+   "NFC South": "Buccaneers",
+   "NFC West": "Rams"
+  },
+  "Joey": {
+   "AFC East": "Patriots",
+   "AFC North": "Ravens",
+   "AFC South": "Titans",
+   "AFC West": "Chargers",
+   "NFC East": "Giants",
+   "NFC North": "Bears",
+   "NFC South": "Falcons",
+   "NFC West": "Seahawks"
+  },
+  "Tom": {
+   "AFC East": "Jets",
+   "AFC North": "Bengals",
+   "AFC South": "Jaguars",
+   "AFC West": "Chiefs",
+   "NFC East": "Eagles",
+   "NFC North": "Packers",
+   "NFC South": "Panthers",
+   "NFC West": "49ers"
+  }
+ },
+ "2021": {
+  "Colin": {
+   "AFC East": "Bills",
+   "AFC North": "Steelers",
+   "AFC South": "Titans",
+   "AFC West": "Broncos",
+   "NFC East": "Eagles",
+   "NFC North": "Lions",
+   "NFC South": "Saints",
+   "NFC West": "49ers"
+  },
+  "Jeff": {
+   "AFC East": "Patriots",
+   "AFC North": "Bengals",
+   "AFC South": "Colts",
+   "AFC West": "Raiders",
+   "NFC East": "Commanders",
+   "NFC North": "Bears",
+   "NFC South": "Buccaneers",
+   "NFC West": "Seahawks"
+  },
+  "Joey": {
+   "AFC East": "Dolphins",
+   "AFC North": "Browns",
+   "AFC South": "Texans",
+   "AFC West": "Chiefs",
+   "NFC East": "Giants",
+   "NFC North": "Vikings",
+   "NFC South": "Panthers",
+   "NFC West": "Rams"
+  },
+  "Tom": {
+   "AFC East": "Jets",
+   "AFC North": "Ravens",
+   "AFC South": "Jaguars",
+   "AFC West": "Chargers",
+   "NFC East": "Cowboys",
+   "NFC North": "Packers",
+   "NFC South": "Falcons",
+   "NFC West": "Cardinals"
+  }
+ },
+ "2022": {
+  "Colin": {
+   "AFC East": "Jets",
+   "AFC North": "Bengals",
+   "AFC South": "Jaguars",
+   "AFC West": "Raiders",
+   "NFC East": "Eagles",
+   "NFC North": "Lions",
+   "NFC South": "Buccaneers",
+   "NFC West": "Cardinals"
+  },
+  "Jeff": {
+   "AFC East": "Dolphins",
+   "AFC North": "Steelers",
+   "AFC South": "Texans",
+   "AFC West": "Chargers",
+   "NFC East": "Cowboys",
+   "NFC North": "Vikings",
+   "NFC South": "Saints",
+   "NFC West": "Seahawks"
+  },
+  "Joey": {
+   "AFC East": "Patriots",
+   "AFC North": "Browns",
+   "AFC South": "Colts",
+   "AFC West": "Broncos",
+   "NFC East": "Giants",
+   "NFC North": "Packers",
+   "NFC South": "Panthers",
+   "NFC West": "49ers"
+  },
+  "Tom": {
+   "AFC East": "Bills",
+   "AFC North": "Ravens",
+   "AFC South": "Titans",
+   "AFC West": "Chiefs",
+   "NFC East": "Commanders",
+   "NFC North": "Bears",
+   "NFC South": "Falcons",
+   "NFC West": "Rams"
+  }
+ },
+ "2023": {
+  "Colin": {
+   "AFC East": "Jets",
+   "AFC North": "Bengals",
+   "AFC South": "Colts",
+   "AFC West": "Raiders",
+   "NFC East": "Commanders",
+   "NFC North": "Lions",
+   "NFC South": "Panthers",
+   "NFC West": "Seahawks"
+  },
+  "Jeff": {
+   "AFC East": "Dolphins",
+   "AFC North": "Steelers",
+   "AFC South": "Jaguars",
+   "AFC West": "Chargers",
+   "NFC East": "Giants",
+   "NFC North": "Vikings",
+   "NFC South": "Buccaneers",
+   "NFC West": "Rams"
+  },
+  "Joey": {
+   "AFC East": "Patriots",
+   "AFC North": "Ravens",
+   "AFC South": "Titans",
+   "AFC West": "Chiefs",
+   "NFC East": "Eagles",
+   "NFC North": "Bears",
+   "NFC South": "Saints",
+   "NFC West": "Cardinals"
+  },
+  "Tom": {
+   "AFC East": "Bills",
+   "AFC North": "Browns",
+   "AFC South": "Texans",
+   "AFC West": "Broncos",
+   "NFC East": "Cowboys",
+   "NFC North": "Packers",
+   "NFC South": "Falcons",
+   "NFC West": "49ers"
+  }
+ },
+ "2024": {
+  "Colin": {
+   "AFC East": "Dolphins",
+   "AFC North": "Browns",
+   "AFC South": "Colts",
+   "AFC West": "Chiefs",
+   "NFC East": "Cowboys",
+   "NFC North": "Bears",
+   "NFC South": "Panthers",
+   "NFC West": "Cardinals"
+  },
+  "Jeff": {
+   "AFC East": "Bills",
+   "AFC North": "Bengals",
+   "AFC South": "Titans",
+   "AFC West": "Chargers",
+   "NFC East": "Giants",
+   "NFC North": "Packers",
+   "NFC South": "Buccaneers",
+   "NFC West": "Seahawks"
+  },
+  "Joey": {
+   "AFC East": "Jets",
+   "AFC North": "Steelers",
+   "AFC South": "Jaguars",
+   "AFC West": "Raiders",
+   "NFC East": "Eagles",
+   "NFC North": "Vikings",
+   "NFC South": "Saints",
+   "NFC West": "49ers"
+  },
+  "Tom": {
+   "AFC East": "Patriots",
+   "AFC North": "Ravens",
+   "AFC South": "Texans",
+   "AFC West": "Broncos",
+   "NFC East": "Commanders",
+   "NFC North": "Lions",
+   "NFC South": "Falcons",
+   "NFC West": "Rams"
+  }
+ },
+ "2025": {
+  "Colin": {
+   "AFC East": "Bills",
+   "AFC North": "Bengals",
+   "AFC South": "Titans",
+   "AFC West": "Chargers",
+   "NFC East": "Cowboys",
+   "NFC North": "Lions",
+   "NFC South": "Panthers",
+   "NFC West": "Cardinals"
+  },
+  "Jeff": {
+   "AFC East": "Jets",
+   "AFC North": "Browns",
+   "AFC South": "Texans",
+   "AFC West": "Broncos",
+   "NFC East": "Commanders",
+   "NFC North": "Bears",
+   "NFC South": "Buccaneers",
+   "NFC West": "49ers"
+  },
+  "Joey": {
+   "AFC East": "Patriots",
+   "AFC North": "Ravens",
+   "AFC South": "Colts",
+   "AFC West": "Raiders",
+   "NFC East": "Giants",
+   "NFC North": "Packers",
+   "NFC South": "Falcons",
+   "NFC West": "Rams"
+  },
+  "Tom": {
+   "AFC East": "Dolphins",
+   "AFC North": "Steelers",
+   "AFC South": "Jaguars",
+   "AFC West": "Chiefs",
+   "NFC East": "Eagles",
+   "NFC North": "Vikings",
+   "NFC South": "Saints",
+   "NFC West": "Seahawks"
+  }
+ },
+ "2026": {
+  "Colin": {
+   "AFC East": "Jets",
+   "AFC North": "Steelers",
+   "AFC South": "Colts",
+   "AFC West": "Raiders",
+   "NFC East": "Cowboys",
+   "NFC North": "Lions",
+   "NFC South": "Falcons",
+   "NFC West": "Seahawks"
+  },
+  "Jeff": {
+   "AFC East": "Patriots",
+   "AFC North": "Browns",
+   "AFC South": "Titans",
+   "AFC West": "Chargers",
+   "NFC East": "Eagles",
+   "NFC North": "Packers",
+   "NFC South": "Panthers",
+   "NFC West": "49ers"
+  },
+  "Joey": {
+   "AFC East": "Dolphins",
+   "AFC North": "Bengals",
+   "AFC South": "Jaguars",
+   "AFC West": "Broncos",
+   "NFC East": "Giants",
+   "NFC North": "Vikings",
+   "NFC South": "Buccaneers",
+   "NFC West": "Rams"
+  },
+  "Tom": {
+   "AFC East": "Bills",
+   "AFC North": "Ravens",
+   "AFC South": "Texans",
+   "AFC West": "Chiefs",
+   "NFC East": "Commanders",
+   "NFC North": "Bears",
+   "NFC South": "Saints",
+   "NFC West": "Cardinals"
+  }
+ }
+}
